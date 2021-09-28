@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.mazenrashed:Printooth:1.2.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b82d6e6b837dd985ad51dac9ad58cb54/jetified-Printooth-1.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b82d6e6b837dd985ad51dac9ad58cb54/jetified-Printooth-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b82d6e6b837dd985ad51dac9ad58cb54/jetified-Printooth-1.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mazenrashed/Printooth/1.2.2/5a3f320f3b5fa4674fd59449e50b9b02ff49ddd2/Printooth-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
